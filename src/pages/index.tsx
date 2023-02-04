@@ -75,15 +75,15 @@ export default function Home() {
                 Card Transactions.
               </li>
               <li>
-                Minimum purchase value INR 1000 Here's how No cost EMI available
+                Minimum purchase value INR 1000 Here&quot;s how No cost EMI available
                 on select cards.
               </li>
               <li>
-                Please check 'EMI options' above for more details. Here's how
+                Please check &quot;EMI options&quot; above for more details. Here&quot;s how
                 Get GST invoice and save up to 28% on business purchases.
               </li>
               <li>
-                Sign up for free Here's how Upto ₹100 cashback & ₹500 welcome
+                Sign up for free Here&quot;s how Upto ₹100 cashback & ₹500 welcome
                 rewards on
               </li>
             </ul>
